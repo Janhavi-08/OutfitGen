@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OutfitGen.Authenticate.API.props" />
+</Project>
