@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OTRZsj1GM6fnVFKKfx7wzqleEtvTEDZv+kOLkex5J58=",
+  "Source": "OutfitGen.Authenticate.API",
+  "BasePath": "_content/OutfitGen.Authenticate.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

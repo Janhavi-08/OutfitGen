@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OutfitGen.Authenticate.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305d4eb90b2b2474c0bdfd560f48e4faaa352f0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+045c96beaf9de55b3346b41279e42fdd6b877f31")]
 [assembly: System.Reflection.AssemblyProductAttribute("OutfitGen.Authenticate.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OutfitGen.Authenticate.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

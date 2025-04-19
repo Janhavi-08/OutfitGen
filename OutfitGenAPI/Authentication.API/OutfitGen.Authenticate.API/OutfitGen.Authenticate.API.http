@@ -1,6 +1,1 @@
 @OutfitGen.Authenticate.API_HostAddress = http://localhost:5219
-
-GET {{OutfitGen.Authenticate.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
